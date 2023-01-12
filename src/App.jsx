@@ -15,7 +15,7 @@ export function App() {
     <Router>
       <header>
         <Link to="/">
-          <h1 className={styles.title}>TE MANDO UN BESO EN LA ROSCA AIMA</h1>
+          <h1 className={styles.title}>Movies</h1>
         </Link>
       </header>
       <main>
